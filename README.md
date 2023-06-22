@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src='https://blog.cdn.own3d.tv/resize=fit:crop,height:400,width:600/BoYRMteyQBOo9hgM2TO0'></img>
-[![HuyLe's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHUUYYLLEE&show_icons=true&theme=dark&include_all_commits=true&custom_title=Lê&#32;Bá&#32;Huy&#39;s&#32;Github&#32;Stats&bg_color=0,1D4ED8,1E40AF,111827)](https://github.com/anuraghazra/github-readme-stats)
+[![HuyLe's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHUUYYLLEE&show_icons=true&theme=dark&include_all_commits=true&custom_title=Lê&#32;Bá&#32;Huy&#39;s&#32;Github&#32;Stats&bg_color=180,1D4ED8,1E40AF,111827)](https://github.com/anuraghazra/github-readme-stats)
