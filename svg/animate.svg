@@ -1,10 +1,8 @@
-<svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
 <div style="position:relative;width:100vw;height:100vh">
     <div style="display:flex;position:absolute;width:100%">
     <div style="display:flex;flex-direction:column;">
-      <img style="width:30%;height:30%;" src="https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952j1xugakhyoo8s9jaa80xih6fvdd6th8do4zwjiqm&ep=v1_stickers_related&rid=giphy.gif&ct=s"/>
-    <img 
+      <img style="width:30%;height:30%;" src="animate/react.gif"/>
+      <img 
 src="https://github-readme-stats.vercel.app/api?username=HHUUYYLLEE&show_icons=true&theme=react&custom_title=Lê%20Bá%20Huy%27s%20Github%20Stats&bg_color=00000000&ring_color=00ff00&include_all_commits=true&icon_color=00ff00&hide_border=true" />
 </div>
 <div>
@@ -14,5 +12,3 @@ src="https://github-readme-stats.vercel.app/api?username=HHUUYYLLEE&show_icons=t
 <img style="width:100%;height:70%" src="https://thumbs.gfycat.com/ConsideratePresentChameleon-size_restricted.gif" />
 </div>
 </div>
-</foreignObject>
-</svg>
