@@ -1,14 +1,22 @@
-<div style="position:relative;width:100vw;height:100vh">
-    <div style="display:flex;position:absolute;width:100%">
-    <div style="display:flex;flex-direction:column;">
-      <img style="width:30%;height:30%;" src="animate/react.gif"/>
-      <img 
-src="https://github-readme-stats.vercel.app/api?username=HHUUYYLLEE&show_icons=true&theme=react&custom_title=Lê%20Bá%20Huy%27s%20Github%20Stats&bg_color=00000000&ring_color=00ff00&include_all_commits=true&icon_color=00ff00&hide_border=true" />
-</div>
-<div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HHUUYYLLEE&show_icons=true&theme=react&layout=pie&hide_border=true&bg_color=00000000"/>
-</div></div>
-    <div>
-<img style="width:100%;height:70%" src="https://thumbs.gfycat.com/ConsideratePresentChameleon-size_restricted.gif" />
-</div>
-</div>
+<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
