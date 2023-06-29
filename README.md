@@ -1,1 +1,1 @@
-<img src="/svg/animate.svg"/>
+<img src="svg/animate.svg"/>
